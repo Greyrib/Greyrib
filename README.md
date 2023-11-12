@@ -7,6 +7,9 @@
   - Computer Science @ UCL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+  - Discordo
+  - Verbal notification at expletive volume
+  - Homing pidgeon
 
 <!---
 Greyrib/Greyrib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
