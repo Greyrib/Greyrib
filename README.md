@@ -2,6 +2,7 @@
 - 👀 I’m interested in ...
   - C#
   - Videogame Development
+  - 3D Modeling in Autodesk Maya
   - Music
 - 🌱 I’m currently learning ...
   - Computer Science @ UCL
