@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Greyrib
 - 👀 I’m interested in ...
   - C#
-  - Getting better at git
+  - Getting better at git & agile development
   - Videogame Development (primarily mechanics)
   - 3D Modeling in Autodesk Maya
   - Music (FL Studio)
