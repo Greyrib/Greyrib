@@ -3,10 +3,10 @@
   - C#
   - Videogame Development
   - 3D Modeling in Autodesk Maya
-  - Music
+  - Music (FL Studio)
 - 🌱 I’m currently learning ...
   - Computer Science @ UCL
-- 💞️ I’m looking to collaborate on ...
+<!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me ...
   - Discordo
   - Verbal notification at expletive volume
