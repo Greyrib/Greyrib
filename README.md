@@ -1,5 +1,5 @@
 <!--- <iframe src="https://gist.github.com/username/greetings-gist.js" width="100%" height="300px"></iframe> --->
-Check out this snippet: [View my code snippet on GitHub Gist](https://gist.github.com/username/gistid)
+Check out this snippet: [View my code snippet on GitHub Gist](https://gist.github.com/username/greetings-gist)
 
 
 - 👋 Hi, I’m @Greyrib
