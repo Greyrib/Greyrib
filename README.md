@@ -5,6 +5,7 @@
 // Sample code from my Gist
 const greet = (name) => `Hello, ${name}!`;
 console.log(greet('GitHub'));
+```
 
 
 - 👋 Hi, I’m @Greyrib
