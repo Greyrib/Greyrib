@@ -2,8 +2,9 @@
 - 👀 I’m interested in ...
   - C# / Javascript & HTML / CSS
   - Getting better at git & agile development
-  - Videogame Development (primarily mechanics)
+  - Videogame Development (primarily coding mechanics & UI)
   - 3D Modeling in Autodesk Maya
+  - Texturing in Gimp, formerly Adobe Photoshop
   - Music (FL Studio)
 - 🌱 I’m currently learning ...
   - Computer Science @ UCL
